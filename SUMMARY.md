@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Protocol Overview](README.md)
-* [Developer Docs](https://dev.balancer.fi/)
+* [Developer Docs](https://solace-1.gitbook.io/devs-docs/)
 
 ## Products
 
